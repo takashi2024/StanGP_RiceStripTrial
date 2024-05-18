@@ -1,0 +1,1 @@
+# StanGP_RiceStripTrial
