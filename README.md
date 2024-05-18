@@ -1,5 +1,5 @@
 # StanGP_RiceStripTrial
-This code implements the gaussian process regression for analyzing strip trials for rice production (Mia et al. under reivew). Eleven trial datasets contain original point id, x and y coordinates, rice yield (t/ha), and N treatment (N kg/ha) as "./data/raw_csv/\*.csv". The analyzed outcomes can be found as "./data/out_rds/\*.rds". Yield data was predicted using the multimodal deep learning model based on UAV-based multispectral images and weather data (Mia et al. 2023). 
+This code implements the gaussian process regression for analyzing strip trials for rice production (Mia et al. under reivew). Eleven trial datasets contain original point id, x and y coordinates, rice yield, and N treatment as "./data/raw_csv/\*.csv". The analyzed outcomes can be found as "./data/out_rds/\*.rds". Yield data was predicted using the multimodal deep learning model based on UAV-based multispectral images and weather data (Mia et al. 2023). 
 
 Mia, M.S.; Tanabe, R.; Habibi, L.N.; Hashimoto, N.; Homma, K.; Maki, M.; Matsui, T.; Tanaka, T.S.T. Multimodal Deep Learning for Rice Yield Prediction Using UAV-Based Multispectral Imagery and Weather Data. Remote Sens. 2023, 15, 2511. https://doi.org/10.3390/rs15102511
 
